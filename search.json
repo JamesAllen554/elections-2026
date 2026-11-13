@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Voter Age and Party Choice in Florida",
+    "section": "",
+    "text": "How does voter age connect to which party wins across Florida? Using data from the 2024 Florida U.S. Senate exit polls, we can compare regional voting patterns across the state with how different age groups voted."
+  },
+  {
+    "objectID": "index.html#which-side-won-across-floridas-regions",
+    "href": "index.html#which-side-won-across-floridas-regions",
+    "title": "Voter Age and Party Choice in Florida",
+    "section": "Which Side Won Across Florida’s Regions?",
+    "text": "Which Side Won Across Florida’s Regions?\nExit polls divide Florida into five regions. Retirement-heavy areas along the Gulf Coast and Mid-Florida voted overwhelmingly Republican (65% to 34%), while the younger, heavily urban Miami / Gold Coast region leaned Democratic (51% to 47%)."
+  },
+  {
+    "objectID": "index.html#how-voter-age-shapes-which-side-people-vote-on",
+    "href": "index.html#how-voter-age-shapes-which-side-people-vote-on",
+    "title": "Voter Age and Party Choice in Florida",
+    "section": "How Voter Age Shapes Which Side People Vote On",
+    "text": "How Voter Age Shapes Which Side People Vote On\nWhy do older regions lean so strongly Republican? Looking at exit-poll respondents by age group shows a clear divide at age 30: voters under 30 backed the Democratic candidate, while voters 30 and older backed the Republican candidate by wide margins."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This website explores how voter age relates to party choice in Florida, comparing regional voting results with age-group breakdowns from the 2024 U.S. Senate election.\n\nData Source\n\nDataset: ABC News 2024 Florida U.S. Senate Exit Polls (data/florida-2024-senate-exit-polls.csv)\nTools: Built with R, the tidyverse, sf, and Quarto."
+  }
+]
